@@ -1,0 +1,22 @@
+body {
+    background: #24ff24;
+    color: black;
+    }
+    h1 {
+    text-align: center;
+    font-size: 18pt;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    }
+    h3 {
+    text-align: center;
+    font-size: 14pt;
+    font-style: italic;
+    color: magenta;
+    }
+    p {
+    text-align: center;
+    font-style: normal;
+    font-family: Cordia New;
+    font-size: 14pt;
+    }
